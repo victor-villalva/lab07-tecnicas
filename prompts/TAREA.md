@@ -8,8 +8,6 @@ Generar casos de prueba para un módulo de registro de mantenimiento preventivo 
 
 **Prompt utilizado:**
 
-**Prompt utilizado:**
-
 ```text
 Genera casos de prueba para un módulo de registro de mantenimiento preventivo de vehículos.
 ```
@@ -18,7 +16,7 @@ Genera casos de prueba para un módulo de registro de mantenimiento preventivo d
 
 **Evaluación:** La respuesta fue completa, pero no se indicó un rol específico ni un formato detallado.
 
-## Version 2
+## Version 2: prompt con rol
 
 **Técnica agregada:** Role prompting. Se indicó a la IA que actuara como analista QA especializado en flotas y mantenimiento automotriz.
 
@@ -119,9 +117,3 @@ Al final incluye:
 Elegí estas técnicas porque necesitaba obtener casos de prueba completos y ordenados para un módulo de mantenimiento vehicular. El role prompting permitió definir el perfil de analista QA; el prompt estructurado ayudó a organizar las instrucciones; el few-shot mostró ejemplos; la descomposición dividió el trabajo en etapas y la autocrítica permitió encontrar posibles casos faltantes.
 
 No utilicé solamente un prompt básico porque podía generar una respuesta muy general. Tampoco consideré necesario aplicar todas las técnicas disponibles, ya que seleccioné las que aportaban mayor utilidad para este trabajo.
-
-## Tecnicas usadas en el prompt final
-
-## Evaluacion del resultado
-
-## Por que elegi estas tecnicas
